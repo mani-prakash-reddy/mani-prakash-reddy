@@ -10,6 +10,7 @@
 	<div class="output">Skilled in Python, C++, Java, and other programming languages. </div>
 	<div class="output">Committed to staying up-to-date with the latest advancements in AI and security to drive technological progress. </div>
 	<div class="output">Continuously seeking opportunities to apply my knowledge and skills to solve real-world problems through cutting-edge solutions.</div>
+  </div>
 </body>
   <style>
     body {
